@@ -1,0 +1,12 @@
+# Python virtual environment folder
+venv/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE/Editor files (VS Code, Jupyter)
+.vscode/
+.ipynb_checkpoints/
